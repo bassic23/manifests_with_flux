@@ -1,8 +1,8 @@
-apiVersion: apps/v1
+tapiVersion: apps/v1
 kind: Deployment
 metadata:
   name: hello
-  namespace: lasample
+  namespace: lamanifest
   labels:
     app: hello
 spec:
