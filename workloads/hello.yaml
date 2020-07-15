@@ -2,7 +2,7 @@ tapiVersion: apps/v1
 kind: Deployment
 metadata:
   name: hello
-  namespace: lamanifests
+  namespace: lamanifest
   labels:
     app: hello
 spec:
